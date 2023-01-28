@@ -2,8 +2,8 @@
 Blackjack Script for FiveM (with UI)
 
 ## Dependencies
-ld-lib
-ld-ui
+- ld-lib
+- ld-ui
 
 ## How to Setup
 
